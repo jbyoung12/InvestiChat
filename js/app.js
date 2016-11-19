@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @jbyoung12
- Watch 88
-  Star 551
- Fork 587 fbsamples/messenger-platform-samples
- Code  Issues 1  Pull requests 2  Projects 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathmessenger-platform-samples/node/app.js
-724abbd  28 days ago
-@parambirs parambirs Fix typo
-4 contributors @peter78 @elyobo @parambirs @segeda
-RawBlameHistory
-839 lines (737 sloc)  21.2 KB
 /*
  * Copyright 2016-present, Facebook, Inc.
  * All rights reserved.
@@ -852,6 +835,3 @@ app.listen(app.get('port'), function() {
 });
 
 module.exports = app;
-
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
