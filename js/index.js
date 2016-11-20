@@ -30,15 +30,15 @@ $(function () {
             colorByPoint: true,
             data: [{
                 name: 'John',
-                y: 20
+                y: 30/136*100
             }, {
                 name: 'Jack',
-                y: 75,
+                y: 90/136*100,
                 sliced: true,
                 selected: true
             }, {
                 name: 'Joanna',
-                y: 5
+                y: 16/136*100
             }]
         }]
     });
