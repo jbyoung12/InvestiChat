@@ -106,7 +106,7 @@ def dicto(msg):
       
     response = ""
     dicWord = [
-        ["hi", "hello", "hey","what's","sup","yo", "whatsup", "whats"],
+        ["hi", "hello", "hey","what's","sup","yo", "whatsup", "whats, sa"],
         ["yes", "yeap", "sure", "go", "start", "begin","yep","yup","sure","mhm","yeah","yea"],
         ["suspects", "choices", "people", "suspects", "who", "guys"], 
         ["about", "background", "yourself", "yourselves", "introduce","backgrounds","introduction","introductions"],
